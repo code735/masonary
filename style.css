@@ -1,0 +1,19 @@
+img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.block1 {
+  background-color: red;
+  height: 200px;
+}
+
+.block2 {
+  background-color: blue;
+  height: 200px;
+}
+
+.col {
+  padding-bottom: calc(var(--bs-gutter-x) * 0.5);
+  padding-top: calc(var(--bs-gutter-x) * 0.5);
+}
